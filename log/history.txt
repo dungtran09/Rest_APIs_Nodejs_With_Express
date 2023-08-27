@@ -1,0 +1,36 @@
+/*********-----HISTORIES REQUEST ON DB-----******/
+----------------------
+Name movie: Test 1
+Created by: Dung Tran
+Sun Aug 20 2023
+----------------------
+
+----------------------
+Name movie: Test 2
+Created by: Dung Tran
+Sun Aug 20 2023
+----------------------
+
+----------------------
+Name movie: Test 3
+Created by: Dung Tran
+Sun Aug 20 2023
+----------------------
+
+----------------------
+Name movie: Test 4
+Created by: Dung Tran
+Sun Aug 20 2023
+----------------------
+
+----------------------
+Name movie: Test 5
+Created by: Dung Tran
+Sun Aug 20 2023
+----------------------
+
+----------------------
+Name movie: Test 2
+Created by: Dung Tran
+Wed Aug 23 2023
+----------------------
